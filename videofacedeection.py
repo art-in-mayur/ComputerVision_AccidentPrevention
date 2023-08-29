@@ -20,7 +20,7 @@ while flag:
         if len(eyes)==0:count+=1
         else:count=0
     else:
-        print("Open eyes not detected for 3 sec,stopping vehicle")  # apply breaks or stop vehicle or play beeps
+        print("Open eyes not detected for 3 sec,stopping vehicle") 
         break
         
     
