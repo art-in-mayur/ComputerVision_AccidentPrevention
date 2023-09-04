@@ -1,6 +1,6 @@
 # Accident Prevention using Computer Vision
 
-Accident Prevention using Computer Vision is a project that aims to enhance road safety by detecting driver drowsiness or inattention through the use of computer vision techniques. The project focuses on detecting closed eyes for an extended period, which could indicate that the driver is not paying attention to the road. Upon detection, the system can trigger various safety measures such as applying breaks, alerting the driver, or stopping the vehicle.
+Accident Prevention using Computer Vision is a project that aims to enhance road safety by detecting driver drowsiness or inattention through the use of computer vision techniques. Upon detection, the system can trigger various safety measures such as applying breaks, alerting the driver, or stopping the vehicle.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Accident Prevention using Computer Vision is a project that aims to enhance road
   
 ## Description
 
-This project utilizes computer vision libraries, particularly OpenCV, to process the video feed from a camera placed inside the vehicle. It detects both faces and eyes in real-time using pre-trained Haar cascades. If the system detects that the driver's eyes are closed for an extended duration, it triggers an alert to prevent potential accidents caused by driver drowsiness.
+This project utilizes computer vision libraries, particularly OpenCV, to process the video feed from a camera placed inside the vehicle. It detects both faces and eyes in real-time using pre-trained Haar cascades.
 
 ## Requirements
 
